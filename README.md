@@ -5,7 +5,7 @@ This project is part of the Ironhack Data Analytics Bootcamp. This was actually 
 [Here](https://github.com/student-IH-labs-and-stuff/BCNDATA2022/blob/main/Projects/Messy_data/Messy_Data.md) you can find the description of the assignment.
 
 The repo includes:
-- [Original data files] (https://github.com/federicariva/Messy_Data/tree/main/data)
+- [Original data files](https://github.com/federicariva/Messy_Data/tree/main/data)
 - Python scripts
 - Onepager with insights from the analysis
 - Presentation give to the classmates at the course
