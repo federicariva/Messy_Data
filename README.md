@@ -6,6 +6,7 @@ This project is part of the Ironhack Data Analytics Bootcamp. This was actually 
 
 The repo includes:
 - [Original data files](https://github.com/federicariva/Messy_Data/tree/main/data)
-- Python scripts
-- Onepager with insights from the analysis
-- Presentation give to the classmates at the course
+- [Python code](https://github.com/federicariva/Messy_Data/tree/main/Scripts)
+- [Onepager with insights from the analysis](https://github.com/federicariva/Messy_Data/tree/main/Deliverables)
+- [Presentation give to the classmates at the course](https://github.com/federicariva/Messy_Data/tree/main/Deliverables)
+- [Data viz](https://public.tableau.com/app/profile/federica4620/viz/Messy_data_Riva_Peracaula/FirstQuestion) in Tableau
