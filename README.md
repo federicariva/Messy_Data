@@ -9,4 +9,4 @@ The repo includes:
 - [Python code](https://github.com/federicariva/Messy_Data/tree/main/Scripts)
 - [Onepager with insights from the analysis](https://github.com/federicariva/Messy_Data/tree/main/Deliverables)
 - [Presentation give to the classmates at the course](https://github.com/federicariva/Messy_Data/tree/main/Deliverables)
-- [Data viz]() in Tableau
+- [Data viz](https://public.tableau.com/app/profile/federica4620/viz/Messy_data_Riva_Peracaula/FirstQuestion) in Tableau
